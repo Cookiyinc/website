@@ -15,7 +15,7 @@ function App() {
     startVelocity: 40,
     elementCount: 70,
     dragFriction: 0.12,
-    duration: 8000,
+    duration: 500,
     stagger: 3,
     width: "10px",
     height: "10px",
